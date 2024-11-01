@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WLI Wordpress Popup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-30 17:57+0530\n"
+"PO-Revision-Date: 2015-04-30 17:57+0530\n"
+"Last-Translator: WLI <ankitakc@projectdemo.biz>\n"
+"Language-Team: WLI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: /media/poojanp/Data/Users/PoojaNP/WordpressProjects/"
+"WelcomePopup/wp-content/plugins/welcome-popup\n"
+
+#: /media/poojanp/Data/Users/PoojaNP/WordpressProjects/WelcomePopup/wp-content/plugins/welcome-popup/welcome_popup.php:220
+msgid "Welcome Popup Options"
+msgstr "Bienvenido Opciones Popup"
+
+#: /media/poojanp/Data/Users/PoojaNP/WordpressProjects/WelcomePopup/wp-content/plugins/welcome-popup/welcome_popup.php:225
+msgid "Settings Saved"
+msgstr "Ajustes guardados"
+
+#: /media/poojanp/Data/Users/PoojaNP/WordpressProjects/WelcomePopup/wp-content/plugins/welcome-popup/welcome_popup.php:233
+msgid "Title:"
+msgstr "Título:"
+
+#: /media/poojanp/Data/Users/PoojaNP/WordpressProjects/WelcomePopup/wp-content/plugins/welcome-popup/welcome_popup.php:239
+msgid "Content:"
+msgstr "contenido:"
+
+#: /media/poojanp/Data/Users/PoojaNP/WordpressProjects/WelcomePopup/wp-content/plugins/welcome-popup/welcome_popup.php:251
+msgid "Only on first visit:"
+msgstr "Sólo en la primera visita:"
+
+#: /media/poojanp/Data/Users/PoojaNP/WordpressProjects/WelcomePopup/wp-content/plugins/welcome-popup/welcome_popup.php:257
+msgid "Popup delay (in seconds):"
+msgstr "Demora emergente (en segundo):"
+
+#: /media/poojanp/Data/Users/PoojaNP/WordpressProjects/WelcomePopup/wp-content/plugins/welcome-popup/welcome_popup.php:264
+msgid "Show Display never link:"
+msgstr "Mostrar Mostrar Nunca enlace:"
+
+#: /media/poojanp/Data/Users/PoojaNP/WordpressProjects/WelcomePopup/wp-content/plugins/welcome-popup/welcome_popup.php:270
+msgid "Exclude Pages:"
+msgstr "Excluir Páginas:"
+
+#: /media/poojanp/Data/Users/PoojaNP/WordpressProjects/WelcomePopup/wp-content/plugins/welcome-popup/welcome_popup.php:300
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: /media/poojanp/Data/Users/PoojaNP/WordpressProjects/WelcomePopup/wp-content/plugins/welcome-popup/welcome_popup.php:387
+#: /media/poojanp/Data/Users/PoojaNP/WordpressProjects/WelcomePopup/wp-content/plugins/welcome-popup/welcome_popup.php:396
+#: /media/poojanp/Data/Users/PoojaNP/WordpressProjects/WelcomePopup/wp-content/plugins/welcome-popup/welcome_popup.php:433
+#: /media/poojanp/Data/Users/PoojaNP/WordpressProjects/WelcomePopup/wp-content/plugins/welcome-popup/welcome_popup.php:443
+msgid "Close"
+msgstr "cerca"
+
+#: /media/poojanp/Data/Users/PoojaNP/WordpressProjects/WelcomePopup/wp-content/plugins/welcome-popup/welcome_popup.php:406
+#: /media/poojanp/Data/Users/PoojaNP/WordpressProjects/WelcomePopup/wp-content/plugins/welcome-popup/welcome_popup.php:456
+msgid "Dont Display Again"
+msgstr "Dont demostrar otra vez"
